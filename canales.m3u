@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 , tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-696x418-20342.jpg" tvg-name="AMERICA TV" group-title="PERU",AMERICA TELEVISION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=95_qHv2EyV-VRKEaOf0mVw&expires=1656722885&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-696x418-20342.jpg" tvg-name="AMERICA TV" group-title="PERU",SD
+http://newultra.xyz:8080/live/56992967491/7491x/69793.m3u8
+
+#EXTINF:-1 , tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-696x418-20342.jpg" tvg-name="AMERICA TV" group-title="PERU",AMERICA FULL HD
+http://newultra.xyz:8080/live/56992967491/7491x/69794.m3u8
+
+#EXTINF:-1 , tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-696x418-20342.jpg" tvg-name="AMERICA TV" group-title="PERU",AMERICA FULL HD 2
+http://newultra.xyz:8080/live/56992967491/7491x/69795.m3u8
+
+#EXTINF:-1 , tvg-logo="https://e-ae.americatv.com.pe/americlub-comunicado-america-television-sobre-problemas-su-senal-hd-noticia-6770-696x418-20342.jpg" tvg-name="AMERICA TV" group-title="PERU",AMERICA HD
+http://newultra.xyz:8080/live/56992967491/7491x/69796.m3u8
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo-america.jpg" tvg-name="AMERICA TV" group-title="PERU",AMERICA TELEVISION HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=5qwiEDHvqfTiFxnWjDidIg&expires=1656723689&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/5ac12d543e7db_ATVPer2018oscuro.png.fdccef57412d709248aebf95762f358c.png" tvg-name="ATV" group-title="PERU",ATV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/61_.m3u8?token=iytDXbBarhLJF9_i621jBg&expires=1656713712&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" tvg-name="ATV" group-title="PERU",ATV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/61_.m3u8?token=4dpu7MmnbIrvk0JriAGp7A&expires=1656714003&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" tvg-name="LATINA " group-title="PERU",LATINA TELEVISION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=z_JL3cZN9mxmYcnYJA268A&expires=1656714259&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" tvg-name="LATINA " group-title="PERU",LATINA TELEVISION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=uhGW4FHpuHCXV_RaLz0Nyg&expires=1656714506&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" tvg-name="LATINA " group-title="PERU",LATINA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=pRhmw18hmOwU6M-LQSfVvA&expires=1656714674&ip=207.248.201.12
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/1024px-Logo_panamericana_tv_2020_2.png" tvg-name="PANAMERICANA" group-title="PERU",PANAMERICANA SD
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFknbxnZhkgZ-oYy-waciXf8oqABqNdfZkOCeY_4yii2E)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/1024px-Logo_panamericana_tv_2020_2.png" tvg-name="PANAMERICANA" group-title="PERU",PANAMERICANA HD
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_panamericana_tv_2020_2.png/1024px-Logo_panamericana_tv_2020_2.png" tvg-name="PANAMERICANA" group-title="PERU",PANAMERICANA
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFknbxnZhkgZ-oYy-waciXf8oqABqNdfZkOCeY_4yii2E)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" tvg-name="WILLAX" group-title="PERU",WILLAX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/153_.m3u8?token=PuRgKxDp_FiztfL4SPbn6Q&expires=1656716155&ip=207.248.201.12
